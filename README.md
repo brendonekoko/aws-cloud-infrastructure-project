@@ -14,5 +14,8 @@ AWS EC2, VPC, ALB, NAT Gateway, S3, Systems Manager, Terraform, Linux, Bash.
 - Stored deployment packages in Amazon S3
 - Successfully destroyed 30 Terraform resources
 
-## Documentation
-AWS architecture and deployment screenshots will be added.
+## AWS Infrastructure Screenshots
+
+The following screenshots document the AWS cloud infrastructure, networking configuration, automated deployment, and completed real estate website.
+
+[View All Project Screenshots](./screenshots/)
