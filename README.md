@@ -19,3 +19,36 @@ AWS EC2, VPC, ALB, NAT Gateway, S3, Systems Manager, Terraform, Linux, Bash.
 The following screenshots document the AWS cloud infrastructure, networking configuration, automated deployment, and completed real estate website.
 
 [View All Project Screenshots](./screenshots/)
+
+## Project Screenshots
+
+### Deployed Real Estate Website
+![Website](screenshots/101015website.png)
+
+### EC2 Web Servers
+![EC2 Instances](screenshots/011015instances.png)
+
+### Application Load Balancer
+![Load Balancer](screenshots/021015alb.png)
+
+### Target Groups
+![Target Groups](screenshots/031015targetgroups.png)
+
+### Virtual Private Cloud
+![VPC](screenshots/041015vpc.png)
+
+### Public and Private Subnets
+![Subnets](screenshots/051015subnets.png)
+
+### Route Tables
+![Route Tables](screenshots/061015routetable.png)
+
+### NAT Gateway
+![NAT Gateway](screenshots/071015natgateway.png)
+
+### Amazon S3 Bucket
+![S3 Bucket](screenshots/081015s3bucket.png)
+
+### AWS Systems Manager
+![Systems Manager](screenshots/091015awssmanager.png)
+  
