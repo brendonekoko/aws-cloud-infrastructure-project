@@ -1,0 +1,13 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+*.tfplan
+plan.txt
+*.tar.gz
+.env
+.env.*
+.aws/
+*.pem
+*.key
